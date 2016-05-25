@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Gerador_de_Jogos_da_MegaSena
+namespace GameKing.Gerador_de_Jogos_da_MegaSena
 {
     class MegaSena
     {
